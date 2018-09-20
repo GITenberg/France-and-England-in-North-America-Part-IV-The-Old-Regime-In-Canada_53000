@@ -2,6 +2,9 @@ _repo: France-and-England-in-North-America-Part-IV-The-Old-Regime-In-Canada_5300
 _version: 0.1.0
 alternative_title: 'France and England in North America, Part IV: The Old Regime In
   Canada'
+covers:
+- cover_type: archival
+  image_path: 53000-h/images/cover.jpg
 creator:
   author:
     agent_name: Parkman, Francis
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/510
     wikipedia: http://en.wikipedia.org/wiki/Francis_Parkman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53000#France-and-England-in-North-America-Part-IV-The-Old-Regime-In-Canada
 gutenberg_issued: '2016-09-07'
 gutenberg_type: Text
 identifiers:
